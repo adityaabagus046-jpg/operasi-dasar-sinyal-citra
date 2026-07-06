@@ -1,1 +1,0 @@
-# operasi-dasar-sinyal-citra
